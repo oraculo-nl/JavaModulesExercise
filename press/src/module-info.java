@@ -1,0 +1,3 @@
+module press {
+    requires kitchen;
+}
